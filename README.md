@@ -29,19 +29,11 @@ Herramientas Tecnológicas:
 
 🚀 Proyectos Destacados:
 
-🌌 Clasificación Morfológica de Galaxias
+🌌 Clasificación Morfológica de Galaxias: Clasificación automática de galaxias según su morfología en el diagrama de Hubble usando redes neuronales convolucionales y datos del Galaxy Zoo. Se logró minimizar el error visual humano en los resultados y del tiempo de clasificación.
 
-Descripción: Clasificación automática de galaxias según su morfología en el diagrama de Hubble usando redes neuronales convolucionales y datos del Galaxy Zoo.
-Logros: Minimización del error visual humano en los resultados y del tiempo de clasificación.
+🔭 Análisis de Dinámica de Cúmulos de Galaxias: Estudio de la distribución de masa y curvas de velocidad en los cúmulos Abell 1656 y Abell 1882. Se realizó un procesamiento de datos astronómicos para identificar patrones (curva de velocidades) y agrupaciones de de galaxias (distribuciones de masa).
 
-🔭 Análisis de Dinámica de Cúmulos de Galaxias
-
-Descripción: Estudio de la distribución de masa y curvas de velocidad en los cúmulos Abell 1656 y Abell 1882.
-Técnicas: Procesamiento de datos astronómicos para identificar patrones (curva de velocidades) y agrupaciones de de galaxias (distribuciones de masa).
-
-📈 Clasificación de Objetos Astronómicos
-
-Descripción: Implementación de clustering y redes neuronales para clasificar objetos astronómicos usando datos del ALeRCE.
+📈 Clasificación de Objetos Astronómicos: Implementación de clustering y redes neuronales para clasificar objetos astronómicos usando datos del ALeRCE.
 
 🌍 Idiomas:
 
@@ -53,12 +45,16 @@ Chino: Básico (C.E.P Juan XXIII).
 🌟 Intereses:
 
 🚀 Astronomía computacional, astrofísica, programación, modelos estadísticos y cálculo numérico.
+
 🤖 Machine learning y redes neuronales.
+
 📊 Visualización de datos y analítica avanzada.
+
 💼 Aplicaciones de la programación en la resolución de problemas complejos.
 
 📫 Contáctame: 
 
 💌 Correo: adrianaroccad@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/adrianarocca/
 
