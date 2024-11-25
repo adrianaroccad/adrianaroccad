@@ -44,7 +44,6 @@ Herramientas Tecnológicas:
 
 📫 Contáctame: 
 
-💌 Correo: adrianaroccad@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/adrianarocca/
+* 💌 Correo: adrianaroccad@gmail.com
+* 🔗 LinkedIn: https://www.linkedin.com/in/adrianarocca/
 
