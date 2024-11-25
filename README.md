@@ -1,5 +1,5 @@
 💫 Hola, soy Adriana Rocca
-  ¡Bienvenido(a) a mi repositorio! 👩‍💻✨
+¡Bienvenido(a) a mi repositorio! 👩‍💻✨
 
 🧑‍🚀 Sobre mí:
 🎓 Bachiller en Física por la Pontificia Universidad Católica del Perú.
