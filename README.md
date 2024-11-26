@@ -10,6 +10,7 @@
 * 💻 Principalmente trabajo con Python, Wolfram Language y MATLAB.
 
 🛠 Habilidades Técnicas:
+
 Lenguajes de Programación:
 * Python: Machine learning, procesamiento y visualización de datos, tensorflow y spatial analysis.
 * Wolfram Language: Soluciones matemáticas y físicas avanzadas.
