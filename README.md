@@ -6,8 +6,8 @@
 
 * 🎓 Bachiller en Física por la Pontificia Universidad Católica del Perú.
 * 📚 Estuve de intercambio estudiantil en la Universidad de Chile, durante el año 2022, cursando asignaturas de Astronomía y Física.
-* 🌌 Mi apasiona la programación especialmente orientada al desarrollo de proyectos de machine learning aplicados a la astronomía y astrofísica.
-* 💻 Principalmente trabajo con Python, Wolfram Language y MATLAB.
+* 🌌 Mi apasiona la programación especialmente orientada al campo del desarrollo Web y elaboración de proyectos de machine learning aplicados a la astrofísica.
+* 💻 Principalmente trabajo con Python, HTML, CSS, Wolfram Language y MATLAB.
 
 🛠 Habilidades Técnicas:
 
