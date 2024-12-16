@@ -18,6 +18,7 @@ Lenguajes de Programación:
 * C++: Implementación de funciones para resolución de problemas.
 
 Herramientas Tecnológicas:
+* HTML y CSS: Estructuración de páginas web y diseño visual básico; conocimientos intermedios en creación de interfaces estáticas.
 * Excel: Análisis y organización avanzada de datos.
 * Power BI: Creación de dashboards e interpretación de datos.
 * Canva: Diseño visual, creación de contenido, portafolios y presentación de datos.
